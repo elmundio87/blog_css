@@ -74,6 +74,7 @@ a:focus, a:hover, a:active {
 	-webkit-border-bottom-left-radius: 10px;
 	-webkit-border-bottom-right-radius: 10px;
 	border-radius: 0 0 10px 10px;
+	background-position-x: -50px !important;
 	}
 
 #header h1, #header h1 a, #header h1 a:visited, #header h4, #header h4 a, #header h4 a:visited {
