@@ -65,7 +65,7 @@ object { display:block; margin:0 auto; }
 #single_post { background:none; }
 .post_odd { clear:both; }
 .post_even { background:url(img/meta_stripe.gif) repeat-y left; clear:both; }
-.post_content_wrapper { float:right; width:580px; padding:50px 15px; }
+.post_content_wrapper { float:right; width:580px; padding:30px 15px; }
 .post_meta { float:left; display:inline; width:120px; padding:0 15px 35px; margin:35px 0 0 0; }
 .content_noside { float:right; width:580px; padding:15px; }
 
@@ -105,7 +105,7 @@ object { display:block; margin:0 auto; }
 .post_content input { margin:5px 0; }
 
 /* post meta (left side of each post)  */
-.post_meta { font-size:11px; text-align:right; line-height:160%; margin:34px 0 0 0; }
+.post_meta { font-size:11px; text-align:right; line-height:160%; margin:14px 0 0 0; }
 .post_meta dt { color:#999; margin:20px 0 0 0; padding-top:20px; background:url(img/dot1.gif) repeat-x top; }
 .post_meta dt.meta_date { padding:16px 0 5px 0; margin:0; background:none; }
 .post_meta a, .post_meta a:visited { color:#666; }
