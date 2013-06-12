@@ -51,7 +51,7 @@ object { display:block; margin:0 auto; }
 #logo { float:left; display:inline; margin:26px 0 0 5px; }
 
 /*blogtitle*/
-#logo a, #logo a:visited { color:#333; font-size:24px; }
+#logo a, #logo a:visited { color:#333; font-size:32px; }
 #logo a:hover { text-decoration:none; color:#33a8e5; }
 
 /*description*/
@@ -294,3 +294,4 @@ object { display:block; margin:0 auto; }
 
 #social .social-identity .avatar {left:20px !important}
 #comment {width:450px !important}
+#social .social-comment-body {width: 90% !important}
